@@ -1,2 +1,2 @@
 1 <a href="labs/01_Extract%20text%20from%20cardiogram%20with%20pytesseract.ipynb">Extracting text from electrocardiogram with pytesseract</a><br>
-2 <a href="labs/02_Non-medical%20image%20segmentation%20with%20Unet%20and%20pytorch.ipynb">Non-medical image segmentation test with Unet and pytorch</a><br>
+2 <a href="labs/02_Non-medical%20image%20segmentation%20with%20Unet%20and%20pytorch.ipynb">Image segmentation test with Unet and pytorch</a><br>
